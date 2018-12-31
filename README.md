@@ -6,12 +6,12 @@
 Below are the steps required to run the script / notebook.
 
 Pre-Step:
-1. First ensure that python-3.X is available. If not install it at <<>>
-2. Ensure it has pip with it for installation of libraries used for the project
+1. First ensure that python-3.X is available. If not install it at https://www.python.org/downloads/
+2. Ensure it has pip with it for installation of libraries used for the project https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation
 
 Steps:
 1. Ensure that anaconda is installed.
-If not installed then one can install at <<>>
+If not installed then one can install at https://www.anaconda.com/download/
 2. Install some of the data science library
 pip install matplotlib
 pip install sklearn
